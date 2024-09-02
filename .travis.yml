@@ -37,6 +37,7 @@ jobs:
 notifications:
   email:
     recipients:
+      - example@email.com
       # - leon.karjunn@gmail.com
     on_success: always
     on_failure: always
